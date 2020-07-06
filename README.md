@@ -1,4 +1,4 @@
-# API_Automation
+# API_Tests
 
 
 ##GENERAL INFO
