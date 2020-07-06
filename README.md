@@ -3,7 +3,7 @@
 
 ##GENERAL INFO
 
-This project shows a simple API tests. In this project I used a dummy REST API at http://dummy.restapiexample.com to try and demonstrate testing of API endpoints. I've exported the Collection in a .json file and added it here. 
+This project shows simple API tests. In this project I used a dummy REST API at http://dummy.restapiexample.com to try and demonstrate testing of API endpoints. I've exported the Collection in a .json file and added it here. 
 
 ##TOOLS
 
