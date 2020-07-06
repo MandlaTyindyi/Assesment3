@@ -9,6 +9,8 @@ This project shows a simple way of running API tests. In this project I used a d
 
 - Postman
 
+##SETUP
+
 - Installed Postman
 - Created the Collection and sent the request and observed the responses 
 
